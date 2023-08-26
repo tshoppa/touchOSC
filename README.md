@@ -3,5 +3,6 @@ These are 2 dialogs I developed for an application that needed more user interac
 
 ## Text Input
 <img src="modules/TextInputDialog/img/Screenshot%20Keyboard.png" alt="Keyboard" width="66%"/>
+
 ![keyboard](modules/TextInputDialog/img/Screenshot%20Keyboard.png)
 ## Color Picker
