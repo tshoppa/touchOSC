@@ -9,3 +9,5 @@ For more details see the [description in the module folder](https://github.com/t
 <img src="modules/TextInputDialog/img/Screenshot%20Keyboard.png" alt="Keyboard" width="66%"/>
 
 ## Color Picker
+
+<img src="modules/ColorPicker/img/Screenshot%20color%20picker%history.png" alt="Keyboard" width="66%"/>
