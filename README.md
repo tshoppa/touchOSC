@@ -10,4 +10,4 @@ For more details see the [description in the module folder](https://github.com/t
 
 ## Color Picker
 
-<img src="modules/ColorPicker/img/Screenshot%20color%20picker%history.png" alt="Keyboard" width="66%"/>
+<img src="modules/ColorPicker/img/Screenshot%20color%20picker.png" alt="Color Picker" width="66%"/>
