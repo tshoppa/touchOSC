@@ -17,13 +17,12 @@ TextInput:notify( 'showTextDialog', {
 ```
 There are 2 ways to process the result of a TextInput operation. You can either specify a receiver or a callback.
 
-**receiver** a label or text control that will directly receive the text when the dialog is closed with "ok".
-
+**receiver** a label or text control that will directly receive the text when the dialog is closed with "ok".\
 **callback** a control, that will be notified with "heresYourText" and the text value when the dialog is closed with "ok". If the dialog is closed with "cancel", the control will be nitified with "textDialogCanceled".
 
 You can also use both methods at once (e.g. if you just want to react on cancel in the script)
 
-other (optional) parameters:
-**initialText** will be shown in the textbox of the TextInput
-**maxTextLength** max number of characters the TextInput will accept
-**advice** the advice string at the top of the dialog ("please enter a text")
+other (optional) parameters:\
+**initialText** will be shown in the textbox of the TextInput\
+**maxTextLength** max number of characters the TextInput will accept\
+**advice** the advice string at the top of the dialog ("please enter a text")\
