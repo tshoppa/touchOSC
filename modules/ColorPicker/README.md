@@ -1,9 +1,9 @@
 ColorPicker comes in 4 variations:
 
--**colorpicker.tosc** the vanilla version with the most common functionality
--**colorpicker swatches.tosc** colorpicker with an additional history of previously selected colors
--**colorpicker small.tosc** a small sized colorpicker
--**colorpicker min.tosc** super compact colorpicker (but least comfortable to use)
+- **colorpicker.tosc** the vanilla version with the most common functionality
+- **colorpicker swatches.tosc** colorpicker with an additional history of previously selected colors
+- **colorpicker small.tosc** a small sized colorpicker
+- **colorpicker min.tosc** super compact colorpicker (but least comfortable to use)
 
 Each tosc file will contain the according colorpicker component as well as a usage demo
 
