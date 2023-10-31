@@ -30,4 +30,6 @@ Alternatively, you can set a **callback** component that will be notified with "
 
 You can optionally specify an **initial** color that will be set as the current color when the dialog is shown.
 
-**Note**: Clicking the dialog pane will also close the dialog (as "cancel")
+# Advanced Usage
+- Clicking the dialog pane will also close the dialog (like "cancel")
+- the BW/grayscale toggle with switch to a grayscale selection area
