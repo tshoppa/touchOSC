@@ -1,5 +1,7 @@
 TextInputDialog.tosc contains the actual keyboard component and a demo.
 
+![image of keyboard](https://github.com/tshoppa/touchOSC/blob/main/modules/TextInputDialog/img/Screenshot%20Keyboard.png)
+
 # Instalation
 To use the TextInputDialog in your touchOSC layout, open TextInputDialog.tosc and copy the group "TextInput" to your project (The group is locked by default, so you will have to unlock it)
 Make sure the TextInput is in front of all other control elements so that will appear as a modal dialog when activated. 
