@@ -19,6 +19,6 @@ For more details see the [description in the module folder](https://github.com/t
 ## Animator
 A tool to create animated layout transitions! You can setup up to 20 different layouts in your template and choose from a variety of animations to transit between them.
 This is usefull to support user preferences (layout mirroring, easy/advanced settings, vetical vs. horizontal layout etc.) but also to just make you template more vivid.
-For more details see the [description in the module folder](https://github.com/tshoppa/touchOSC/blob/main/modules/animator/README.md).
+For more details see the [description in the module folder](https://github.com/tshoppa/touchOSC/blob/main/modules/animator/Readme.md).
 
 <img src="modules/animator/img/Animator.png" alt="TouchOSC Layout Animator" width="66%"/>
