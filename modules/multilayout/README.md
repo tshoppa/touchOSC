@@ -1,3 +1,6 @@
+# New Version
+**A new, updated version now adds animations to the game! Visit Animator**
+
 # LayoutRadioGenerator
 Creates a radio that let you switch through multiple template layouts.
 You can rearange position, size and orientation of each control to create different layouts to select from.
