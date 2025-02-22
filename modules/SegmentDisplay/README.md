@@ -46,4 +46,12 @@ strings and properties are set by calling 'notify(key,val)' on the Display via s
 | invert | boolean | inverts the dot matrix on/off color | display:notify('invert', true) |
 
 ## character editor
+you can add more characters by expanding the 'codes' table at the top of a Char group script. A character is defined by 5x7 numbers, where 0 represents an off and 1 an on dot.
+To expand all Chars of a display, remove all Chars but one, edit the remaining Char and copy and paste it to fill the display again. Remember to always copy to the end of the row.
 
+You can use the Character Editor on the lower right of the template to create the matrix code (note, that this currently only works on desktop versions of touchOSC):  
+  - open the log console (Ctrl/Cmd + Shift + L or menu 'View'/'Toggle Log') and switch to Script tab.
+  - run the template
+  - draw new character by selecting dots in the 5x7 matrix
+  - when done, press 'print'
+  - copy code from the log console to the codes table
