@@ -7,7 +7,7 @@ This is useful to support user preferences (layout mirroring, easy/advanced sett
 The Animator panel provides a simple visual interface to add and remove layouts and animations.    
 For more details see the [description in the module folder](https://github.com/tshoppa/touchOSC/blob/main/modules/animator/).
 
-<video src="https://github.com/user-attachments/assets/8604f81a-bb3c-431e-8af3-2e9240db9685" width = "66%"></video>
+<video src="https://github.com/user-attachments/assets/8604f81a-bb3c-431e-8af3-2e9240db9685"></video>
 <img src="modules/animator/img/Animator.png" alt="TouchOSC Layout Animator" width="66%"/>
 
 ## Retro Segment and Dot display
@@ -38,3 +38,12 @@ Also helps to protect from copycat in case you are selling templates.
 For more details see the [description in the module folder](https://github.com/tshoppa/touchOSC/blob/main/modules/minifier/).
 
 ![image](https://github.com/user-attachments/assets/6a8bb72f-b743-498a-a8a1-44f12ecc3a8c)
+
+## Channel Mapper
+simple, mobile friendly midi channel mapper
+It will map messages coming in on connection 1 to the channels as defined in the boxes and resend them on connection 2 - 5. Likewise, incoming messages on connections 2-5 are mapped backwards to connection 1.
+You can also save and load up to 16 configurations.
+
+For more details see the [description in the module folder](https://github.com/tshoppa/touchOSC/blob/main/modules/Midi%20Mapper/).
+
+![MidiMapper 1](https://github.com/user-attachments/assets/fb9da4ae-8877-4335-a144-ccd86e928aac)
