@@ -32,3 +32,9 @@ For more details see the [description in the module folder](https://github.com/t
 
 <img src="modules/ColorPicker/img/Screenshot%20color%20picker%20history.png" alt="Color Picker" width="66%"/>
 
+## Lua Code Minifier
+compresses the script code in a template, making the code around 50% smaller and slightly more efficent.
+Also helps to protect from copycat in case you are selling templates.
+For more details see the [description in the module folder](https://github.com/tshoppa/touchOSC/blob/main/modules/minifier/).
+
+![image](https://github.com/user-attachments/assets/6a8bb72f-b743-498a-a8a1-44f12ecc3a8c)
