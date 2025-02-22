@@ -1,5 +1,12 @@
 # touchOSC
 These are tools and modules I developed for the [TouchOSC](https://hexler.net/touchosc) app. TouchOSC is a powerful surface builder with a LUA scripting api to process Midi and OSC messages.
+  - [Animated Layouts](#animator)
+  - [Retro Segment and Dot display](#animator)
+  - [Text Input Dialog](#animator)
+  - [Color Picker Dialog](#animator)
+  - [LUA Script Minifier](#animator)
+  - [Channel Mapper](#animator)
+
 
 ## Animator
 A tool to create animated layout transitions! You can setup up to 20 different layouts in your template and choose from a variety of animations to transit between them.
@@ -32,7 +39,7 @@ For more details see the [description in the module folder](https://github.com/t
 
 <img src="modules/ColorPicker/img/Screenshot%20color%20picker%20history.png" alt="Color Picker" width="66%"/>
 
-## Lua Code Minifier
+## Lua Script Minifier
 compresses the script code in a template, making the code around 50% smaller and slightly more efficent.
 Also helps to protect from copycat in case you are selling templates.
 For more details see the [description in the module folder](https://github.com/tshoppa/touchOSC/blob/main/modules/minifier/).
