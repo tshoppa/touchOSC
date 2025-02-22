@@ -1,11 +1,11 @@
-# touchOSC
+# TouchOSC
 These are tools and modules I developed for the [TouchOSC](https://hexler.net/touchosc) app. TouchOSC is a powerful surface builder with a LUA scripting api to process Midi and OSC messages.
   - [Animated Layouts](#animator)
-  - [Retro Segment and Dot display](#animator)
-  - [Text Input Dialog](#animator)
-  - [Color Picker Dialog](#animator)
-  - [LUA Script Minifier](#animator)
-  - [Channel Mapper](#animator)
+  - [Retro Segment and Dot display](#retro-segment-and-dot-display)
+  - [Text Input Dialog](#text-input)
+  - [Color Picker Dialog](#color-picker)
+  - [LUA Script Minifier](#lua-script-minifier)
+  - [Channel Mapper](#channel-mapper)
 
 
 ## Animator
