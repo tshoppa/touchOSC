@@ -68,7 +68,13 @@ The scripts can be easily transfered to faders.
 ![image](https://github.com/user-attachments/assets/dcc90390-e84f-4d95-872d-0c6c30539379)
 
 ## Pan and Zoom
-POC how to zoom into a template with a pinch gesture and pan with a drag gesture.  
+POC how to zoom into a template with a pinch gesture and pan with a drag gesture.
+[PanZoom](https://github.com/tshoppa/touchOSC/blob/main/modules/Pan%20and%20Zoom/PanZoom.tosc)
+
+[See it here in action](https://www.facebook.com/share/v/1AbVYzrYAk/)
+
+## Swipe Pager
+Pager-like container that works on a swipe gesture to scroll through pages
 [PanZoom](https://github.com/tshoppa/touchOSC/blob/main/modules/Pan%20and%20Zoom/PanZoom.tosc)
 
 ## Miscellaneous
@@ -86,6 +92,11 @@ some small, helpful scripts and components
 - [**Random Radio**](https://github.com/tshoppa/touchOSC/blob/main/modules/misc/RandomRadio.tosc) Randomized selection of a radio button
 - [**Continuous Inc Dec Fader**](https://github.com/tshoppa/touchOSC/blob/main/modules/misc/RepeatingIncDecFader.tosc) Fader with Inc/Dec buttons that will continuously repeat to increase or decrease if the buttons are held down
 - [**Resend Pager**](https://github.com/tshoppa/touchOSC/blob/main/modules/misc/ResendPagerContent.tosc) Pager that will send a Program Change message on page change and additionally resend all OSC and Midi messages contained in the page
+- [**SendAll**](https://github.com/tshoppa/touchOSC/blob/main/modules/misc/SendAll.tosc) Button to resends all OSC and Midi messages in a template.
+- [**ShiftSwitch**](https://github.com/tshoppa/touchOSC/blob/main/modules/misc/ShiftSwitch.tosc) POC how to switch appearance and midi messages on a group of controls using a "shift" button.
+- [**Simple Delayed Button**](https://github.com/tshoppa/touchOSC/blob/main/modules/misc/SimpleDelayedButton.tosc) Button with 2 Midi messages that fires message 1 immediately and message 2 after a definable delay (20ms by default)
+- [**SendAll**](https://github.com/tshoppa/touchOSC/blob/main/modules/misc/SendAll.tosc) Button to resends all OSC and Midi messages in a template.
+
 
 
 
