@@ -6,6 +6,7 @@ These are tools and modules I developed for the [TouchOSC](https://hexler.net/to
   - [Color Picker Dialog](#color-picker)
   - [LUA Script Minifier](#lua-script-minifier)
   - [Channel Mapper](#channel-mapper)
+  - [Pickup Radial](#pickup-radial)
 
 
 ## Animator
@@ -54,3 +55,13 @@ You can also save and load up to 16 configurations.
 For more details see the [description in the module folder](https://github.com/tshoppa/touchOSC/blob/main/modules/Midi%20Mapper/).
 
 ![MidiMapper 1](https://github.com/user-attachments/assets/fb9da4ae-8877-4335-a144-ccd86e928aac)
+
+## Pickup Radial
+A soft sync solution when using additional (non motorized) hardware controller (like an Akai Midimix or a Novation LaunchControl XL) to control a touchOSC template.
+When you turn an out of sync knob on your hw and it is not in sync whith the corresponding radial in touchOSC a white "ghost" radial will appear until knob and radial are in sync.
+This avoids hard value jumps. 
+The scripts can be easily transfered to faders.
+[Pickup Radial](https://github.com/tshoppa/touchOSC/blob/main/modules/Pickup/Pickup.tosc)
+
+![image](https://github.com/user-attachments/assets/dcc90390-e84f-4d95-872d-0c6c30539379)
+
