@@ -8,6 +8,7 @@ These are tools and modules I developed for the [TouchOSC](https://hexler.net/to
   - [Channel Mapper](#channel-mapper)
   - [Pickup Radial](#pickup-radial)
   - [Pan and Zoom](#pan-and-zoom)
+  - [Swipe Pager](#swipe-pager)
   - [Miscellaneous](#miscellaneous)
 
 
@@ -68,14 +69,16 @@ The scripts can be easily transfered to faders.
 ![image](https://github.com/user-attachments/assets/dcc90390-e84f-4d95-872d-0c6c30539379)
 
 ## Pan and Zoom
-POC how to zoom into a template with a pinch gesture and pan with a drag gesture.
-[PanZoom](https://github.com/tshoppa/touchOSC/blob/main/modules/Pan%20and%20Zoom/PanZoom.tosc)
+POC how to zoom into a template with a pinch gesture and pan with a drag gesture. Watch it on facebook:
+[<img src="https://github.com/user-attachments/assets/7f79cf86-242b-41df-a9c2-b43b23d3c6c2">](https://www.facebook.com/share/v/1AbVYzrYAk/)
 
-[See it here in action](https://www.facebook.com/share/v/1AbVYzrYAk/)
+[PanZoom](https://github.com/tshoppa/touchOSC/blob/main/modules/Pan%20and%20Zoom/PanZoom.tosc)
 
 ## Swipe Pager
-Pager-like container that works on a swipe gesture to scroll through pages
-[PanZoom](https://github.com/tshoppa/touchOSC/blob/main/modules/Pan%20and%20Zoom/PanZoom.tosc)
+Pager-like container that works on a swipe gesture to scroll through pages. Watch it on facebook:
+[<img src="https://github.com/user-attachments/assets/3f4badad-2683-4056-8941-2859804cf179">](https://www.facebook.com/share/v/1C85xBFUBn/)
+
+[SwipePager](https://github.com/tshoppa/touchOSC/blob/main/modules/Pan%20and%20Zoom/PanZoom.tosc)
 
 ## Miscellaneous
 some small, helpful scripts and components 
