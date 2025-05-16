@@ -7,6 +7,7 @@ These are tools and modules I developed for the [TouchOSC](https://hexler.net/to
   - [LUA Script Minifier](#lua-script-minifier)
   - [Channel Mapper](#channel-mapper)
   - [Pickup Radial](#pickup-radial)
+  - [Pan and Zoom](#pan-and-zoom)
   - [Miscellaneous](#miscellaneous)
 
 
@@ -73,7 +74,7 @@ POC how to zoom into a template with a pinch gesture and pan with a drag gesture
 ## Miscellaneous
 some small, helpful scripts and components 
 
-- [**ButtonRadio**](https://github.com/tshoppa/touchOSC/blob/main/modules/misc/ButtonRadio.tosc Group of buttons that behaves like a Radio
+- [**ButtonRadio**](https://github.com/tshoppa/touchOSC/blob/main/modules/misc/ButtonRadio.tosc) Group of buttons that behaves like a Radio
 - [**Button Trigger workflow**](https://github.com/tshoppa/touchOSC/blob/main/modules/misc/ButtonTriggerWorkflow.tosc) small diagramm that shows how local messages and scripts trigger events
 - [**Flic Fader**](https://github.com/tshoppa/touchOSC/blob/main/modules/misc/FlicFader.tosc) A fader that can be flicked and will bounce from the edges. With adjustable friction.
 - [**Midi Enabler**](https://github.com/tshoppa/touchOSC/blob/main/modules/misc/MidiEnabler.tosc) Button to enable/disable sending Midi messages from all controls 
