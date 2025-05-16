@@ -76,6 +76,16 @@ some small, helpful scripts and components
 
 - [**ButtonRadio**](https://github.com/tshoppa/touchOSC/blob/main/modules/misc/ButtonRadio.tosc) Group of buttons that behaves like a Radio
 - [**Button Trigger workflow**](https://github.com/tshoppa/touchOSC/blob/main/modules/misc/ButtonTriggerWorkflow.tosc) small diagramm that shows how local messages and scripts trigger events
+- [**FlexPager**](https://github.com/tshoppa/touchOSC/blob/main/modules/misc/FlexPager.tosc) A Pager with a (virtually) variable number of pages (TouchOSC doesn't allow to actually add or remove pages in runtime, but this pager simulates this by scaling and clipping the pager to appear to shrink or grow)
 - [**Flic Fader**](https://github.com/tshoppa/touchOSC/blob/main/modules/misc/FlicFader.tosc) A fader that can be flicked and will bounce from the edges. With adjustable friction.
-- [**Midi Enabler**](https://github.com/tshoppa/touchOSC/blob/main/modules/misc/MidiEnabler.tosc) Button to enable/disable sending Midi messages from all controls 
-- [**Mute Button**](https://github.com/tshoppa/touchOSC/blob/main/modules/misc/Mute%20Button.tosc) Radial and Fader with mute buttons. No script solution!
+- [**Midi Enabler**](https://github.com/tshoppa/touchOSC/blob/main/modules/misc/MidiEnabler.tosc) Button to enable/disable sending Midi messages from all controls
+- [**Mute Button**](https://github.com/tshoppa/touchOSC/blob/main/modules/misc/Mute%20Button.tosc) Radial and Fader with mute buttons. Scriptless solution!
+- [**Peek Pager**](https://github.com/tshoppa/touchOSC/blob/main/modules/misc/PeekPager.tosc) Pager that allows to peek on another page by tap and hold the tab. The pager will automatically switch back to the last tab if a tab is held for more than 300ms. 
+- [**Precision**](https://github.com/tshoppa/touchOSC/blob/main/modules/misc/Precision.tosc) A Fader with inc and dec buttons and a "precision mode" for fine tuning.
+- [**Individual Message Radio**](https://github.com/tshoppa/touchOSC/blob/main/modules/misc/RadioSendDifferentMessages.tosc) A Radio with individual midi messages per button
+- [**Random Radio**](https://github.com/tshoppa/touchOSC/blob/main/modules/misc/RandomRadio.tosc) Randomized selection of a radio button
+- [**Continuous Inc Dec Fader**](https://github.com/tshoppa/touchOSC/blob/main/modules/misc/RepeatingIncDecFader.tosc) Fader with Inc/Dec buttons that will continuously repeat to increase or decrease if the buttons are held down
+- [**Resend Pager**](https://github.com/tshoppa/touchOSC/blob/main/modules/misc/ResendPagerContent.tosc) Pager that will send a Program Change message on page change and additionally resend all OSC and Midi messages contained in the page
+
+
+
