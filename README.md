@@ -78,10 +78,10 @@ POC how to zoom into a template with a pinch gesture and pan with a drag gesture
 Pager-like container that works on a swipe gesture to scroll through pages. Watch it on facebook:
 [<img src="https://github.com/user-attachments/assets/3f4badad-2683-4056-8941-2859804cf179">](https://www.facebook.com/share/v/1C85xBFUBn/)
 
-[SwipePager](https://github.com/tshoppa/touchOSC/blob/main/modules/Pan%20and%20Zoom/PanZoom.tosc)
+[SwipePager](https://github.com/tshoppa/touchOSC/blob/main/modules/misc/Swipe.tosc)
 
 ## Miscellaneous
-some small, helpful scripts and components 
+various smaller tools, scripts and components 
 
 - [**ButtonRadio**](https://github.com/tshoppa/touchOSC/blob/main/modules/misc/ButtonRadio.tosc) Group of buttons that behaves like a Radio
 - [**Button Trigger workflow**](https://github.com/tshoppa/touchOSC/blob/main/modules/misc/ButtonTriggerWorkflow.tosc) small diagramm that shows how local messages and scripts trigger events
@@ -99,6 +99,10 @@ some small, helpful scripts and components
 - [**ShiftSwitch**](https://github.com/tshoppa/touchOSC/blob/main/modules/misc/ShiftSwitch.tosc) POC how to switch appearance and midi messages on a group of controls using a "shift" button.
 - [**Simple Delayed Button**](https://github.com/tshoppa/touchOSC/blob/main/modules/misc/SimpleDelayedButton.tosc) Button with 2 Midi messages that fires message 1 immediately and message 2 after a definable delay (20ms by default)
 - [**SendAll**](https://github.com/tshoppa/touchOSC/blob/main/modules/misc/SendAll.tosc) Button to resends all OSC and Midi messages in a template.
+- [**Toggle Color switch**](https://github.com/tshoppa/touchOSC/blob/main/modules/misc/Toggle%20Colorswitch.tosc) toggle button that switches color, local message vs scriptiong solution 
+- [**Unique message scanner**](https://github.com/tshoppa/touchOSC/blob/main/modules/misc/UniqueMessages.tosc) script that scans midi messages for duplicate usages
+- [**Vertical Pager**](https://github.com/tshoppa/touchOSC/blob/main/modules/VerticalPager/verticalPager.tosc) Basic pager with tabs on the left side
+
 
 
 
