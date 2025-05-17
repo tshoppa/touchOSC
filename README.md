@@ -88,6 +88,7 @@ various smaller tools, scripts and components
 - [**FlexPager**](https://github.com/tshoppa/touchOSC/blob/main/modules/misc/FlexPager.tosc) A Pager with a (virtually) variable number of pages (TouchOSC doesn't allow to actually add or remove pages in runtime, but this pager simulates this by scaling and clipping the pager to appear to shrink or grow)
 - [**Flic Fader**](https://github.com/tshoppa/touchOSC/blob/main/modules/misc/FlicFader.tosc) A fader that can be flicked and will bounce from the edges. With adjustable friction.
 - [**Midi Enabler**](https://github.com/tshoppa/touchOSC/blob/main/modules/misc/MidiEnabler.tosc) Button to enable/disable sending Midi messages from all controls
+- [**Multi Toggle Button**](https://github.com/tshoppa/touchOSC/blob/main/modules/misc/Multi%20Toggle%20Button.tosc) Button that toggles through multiple states, sending a separate midi message for each- 
 - [**Mute Button**](https://github.com/tshoppa/touchOSC/blob/main/modules/misc/Mute%20Button.tosc) Radial and Fader with mute buttons. Scriptless solution!
 - [**Peek Pager**](https://github.com/tshoppa/touchOSC/blob/main/modules/misc/PeekPager.tosc) Pager that allows to peek on another page by tap and hold the tab. The pager will automatically switch back to the last tab if a tab is held for more than 300ms. 
 - [**Precision**](https://github.com/tshoppa/touchOSC/blob/main/modules/misc/Precision.tosc) A Fader with inc and dec buttons and a "precision mode" for fine tuning.
