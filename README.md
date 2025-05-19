@@ -87,6 +87,7 @@ various smaller tools, scripts and components
 - [**Button Trigger workflow**](https://github.com/tshoppa/touchOSC/blob/main/modules/misc/ButtonTriggerWorkflow.tosc) small diagramm that shows how local messages and scripts trigger events
 - [**FlexPager**](https://github.com/tshoppa/touchOSC/blob/main/modules/misc/FlexPager.tosc) A Pager with a (virtually) variable number of pages (TouchOSC doesn't allow to actually add or remove pages in runtime, but this pager simulates this by scaling and clipping the pager to appear to shrink or grow)
 - [**Flic Fader**](https://github.com/tshoppa/touchOSC/blob/main/modules/misc/FlicFader.tosc) A fader that can be flicked and will bounce from the edges. With adjustable friction.
+- [**Master XY**](https://github.com/tshoppa/touchOSC/blob/main/modules/misc/Master%20xy.tosc) Master XY moves all slave XY pads in a group. Includes 2 versions, that either ignores or respects the relative distances between the slaves' x and y values 
 - [**Midi Enabler**](https://github.com/tshoppa/touchOSC/blob/main/modules/misc/MidiEnabler.tosc) Button to enable/disable sending Midi messages from all controls
 - [**Multi Toggle Button**](https://github.com/tshoppa/touchOSC/blob/main/modules/misc/Multi%20Toggle%20Button.tosc) Button that toggles through multiple states, sending a separate midi message for each- 
 - [**Mute Button**](https://github.com/tshoppa/touchOSC/blob/main/modules/misc/Mute%20Button.tosc) Radial and Fader with mute buttons. Scriptless solution!
