@@ -84,6 +84,7 @@ Pager-like container that works on a swipe gesture to scroll through pages. Watc
 various smaller tools, scripts and components 
 
 - [**ButtonRadio**](https://github.com/tshoppa/touchOSC/blob/main/modules/misc/ButtonRadio.tosc) Group of buttons that behaves like a Radio
+- [**Extended ButtonRadios**](https://github.com/tshoppa/touchOSC/blob/main/modules/misc/ButtonRadioTagGroups.tosc) Diffrent techniques how to implement button radios with groups (as above), tags or explicit pathes. 
 - [**Button Trigger workflow**](https://github.com/tshoppa/touchOSC/blob/main/modules/misc/ButtonTriggerWorkflow.tosc) small diagramm that shows how local messages and scripts trigger events
 - [**FlexPager**](https://github.com/tshoppa/touchOSC/blob/main/modules/misc/FlexPager.tosc) A Pager with a (virtually) variable number of pages (TouchOSC doesn't allow to actually add or remove pages in runtime, but this pager simulates this by scaling and clipping the pager to appear to shrink or grow)
 - [**Flic Fader**](https://github.com/tshoppa/touchOSC/blob/main/modules/misc/FlicFader.tosc) A fader that can be flicked and will bounce from the edges. With adjustable friction.
