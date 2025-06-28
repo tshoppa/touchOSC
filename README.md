@@ -99,6 +99,7 @@ various smaller tools, scripts and components
 - [**Continuous Inc Dec Fader**](https://github.com/tshoppa/touchOSC/blob/main/modules/misc/RepeatingIncDecFader.tosc) Fader with Inc/Dec buttons that will continuously repeat to increase or decrease if the buttons are held down
 - [**Resend Pager**](https://github.com/tshoppa/touchOSC/blob/main/modules/misc/ResendPagerContent.tosc) Pager that will send a Program Change message on page change and additionally resend all OSC and Midi messages contained in the page
 - [**SendAll**](https://github.com/tshoppa/touchOSC/blob/main/modules/misc/SendAll.tosc) Button to resends all OSC and Midi messages in a template.
+- [**Sequental Midi Button**](https://github.com/tshoppa/touchOSC/blob/main/modules/misc/SequentialMidiButton.tosc) Button that Sends it's Midi messages one by one with a definable delay
 - [**ShiftSwitch**](https://github.com/tshoppa/touchOSC/blob/main/modules/misc/ShiftSwitch.tosc) POC how to switch appearance and midi messages on a group of controls using a "shift" button.
 - [**Simple Delayed Button**](https://github.com/tshoppa/touchOSC/blob/main/modules/misc/SimpleDelayedButton.tosc) Button with 2 Midi messages that fires message 1 immediately and message 2 after a definable delay (20ms by default)
 - [**SendAll**](https://github.com/tshoppa/touchOSC/blob/main/modules/misc/SendAll.tosc) Button to resends all OSC and Midi messages in a template.
